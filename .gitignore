@@ -1,0 +1,12 @@
+grades-*/
+__pycache__/
+sim.py
+optimize.py
+optimize2.py
+caps.py
+capsearch.py
+grid.py
+prompt.txt
+muse-usage.jsonl
+*.bundle.tar.gz
+*.pyc
